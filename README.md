@@ -28,6 +28,11 @@ our architecture and API choices as well as general feedback and bug finding.
 
 - https://medium.com/@pipermerriam/py-evm-part-1-origins-25d9ad390b
 
+## PREREQUESITS 
+make sure that you have installed pandoc before the pip install of requirements-dev.txt or you will be confused by an error like this
+```
+Command "python setup.py egg_info" failed with error code 1 
+```
 
 ## Development
 
